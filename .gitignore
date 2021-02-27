@@ -1,0 +1,12 @@
+*.out
+*.zip
+*.gz
+*.tar
+*.bz2
+*.rar
+*.o
+*.bak
+*.log
+*~
+.DS_Store
+core
